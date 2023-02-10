@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  cursor: pointer;
+  border: none;
+  font-size: 2em;
+}
+
+.on {
+  color: yellow;
+}
+.off {
+  color: grey;
+}
